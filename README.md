@@ -7,6 +7,8 @@
 [![Security Audit](https://github.com/MdZasimHossain/Csp451checkpoint3/actions/workflows/security.yml/badge.svg)](https://github.com/MdZasimHossain/Csp451checkpoint3/actions/workflows/security.yml)
 [![Deploy](https://github.com/MdZasimHossain/Csp451checkpoint3/actions/workflows/deploy.yml/badge.svg)](https://github.com/MdZasimHossain/Csp451checkpoint3/actions/workflows/deploy.yml)
 
+## All 4 Workflows Implemented ✅
+
 ## Overview
 
 This repository demonstrates GitHub Actions and CI/CD automation with 4 workflows.
